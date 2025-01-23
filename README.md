@@ -1,4 +1,4 @@
-# hello_electron
+# Offscreen Document window.open Bug Example
 
 This simple reproducible example demonstrates the inability to call `window.open` in an offscreen document created in an extension service worker with `chrome.offscreen.createDocument`.
 
